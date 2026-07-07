@@ -10,7 +10,7 @@ Currently, I'm expanding my expertise into **AI-powered applications**, RAG syst
 
 ## 🚀 About Me
 
-* 💻 Software Engineer with 3.5+ years of experience
+* 💻 Software Engineer with 4 years of experience
 * ⚡ Angular, TypeScript & Ionic specialist
 * 🗺️ Extensive experience building map-based applications
 * 📱 Cross-platform mobile & web application development
