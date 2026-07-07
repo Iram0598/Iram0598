@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer | Frontend Specialist | AI Enthusiast
 
-I'm a software engineer with **3.5+ years of professional experience** building scalable web and cross-platform applications. I enjoy turning complex ideas into intuitive user experiences and solving real-world engineering challenges.
+I'm a software engineer with **4 years of professional experience** building scalable web and cross-platform applications. I enjoy turning complex ideas into intuitive user experiences and solving real-world engineering challenges.
 
 Currently, I'm expanding my expertise into **AI-powered applications**, RAG systems, and intelligent automation while continuing to build modern frontend experiences.
 
