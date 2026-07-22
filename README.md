@@ -33,6 +33,8 @@ Currently, I'm expanding my expertise into **AI-powered applications**, RAG syst
 
 <p>
 <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,bootstrap,sass" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
+  <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white" alt="NgRx" />
 </p>
 
 ### Mobile
