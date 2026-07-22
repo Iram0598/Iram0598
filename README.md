@@ -49,8 +49,9 @@ Currently, I'm expanding my expertise into **AI-powered applications**, RAG syst
 
 ### AI & Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=openai,docker,git,github,vscode" />
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" alt="My Skills" />
 </p>
 
 ---
