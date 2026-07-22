@@ -38,20 +38,24 @@ Currently, I'm expanding my expertise into **AI-powered applications**, RAG syst
 ### Mobile
 
 <p>
- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><g fill="#4e8ef7"><circle cx="64" cy="64" r="24.08"/><path d="M113.14 23.14a8.27 8.27 0 00-13.7-6.25 59 59 0 1011.67 11.67 8.24 8.24 0 002.03-5.42zM64 121A57 57 0 1198.1 18.36a8.27 8.27 0 0011.53 11.53A57 57 0 0164 121z"/></g></svg>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor" />
+  <img src="https://skillicons.dev/icons?i=android,apple" alt="Mobile Platforms" />
 </p>
 
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend Stack" />
 </p>
 
 ### AI & Cloud
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://skillicons.dev/icons?i=ai,docker,git,github,vscode" alt="My Skills" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://skillicons.dev/icons?i=ai,docker,git,github,vscode" alt="AI & Cloud Tools" />
 </p>
 
 ---
