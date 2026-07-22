@@ -46,8 +46,8 @@ Currently, I'm expanding my expertise into **AI-powered applications**, RAG syst
 ### Backend & Database
 
 <p>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend Stack" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
 </p>
 
 ### AI & Cloud
